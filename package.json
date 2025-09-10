@@ -1,0 +1,14 @@
+{
+  "name": "devops-task",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Jenkins pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
+
